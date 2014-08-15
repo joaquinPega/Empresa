@@ -1,3 +1,4 @@
+package empresa.logica.com;
 
 public class SupervisorTecnico extends Empleado {
 	private int antiguedad;

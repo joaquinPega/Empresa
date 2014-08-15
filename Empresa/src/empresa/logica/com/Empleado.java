@@ -1,3 +1,4 @@
+package empresa.logica.com;
 
 public abstract class Empleado {
 	private String nombre;

@@ -1,3 +1,4 @@
+package empresa.logica.com;
 
 public class Oficinista extends Empleado {
 
